@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis
+Here I have implemented EDA(Exploratory Data Analysis) for popular Titanic dataset with python . I have tried to find out any many pattern and insights as possible . For the visualization purpose I have used seaborn , matplotlib library of python and for data analysis Pandas.  Finally , I have Applied Linear Regression Algorithm to predict how many members have survived from that ship. and to do this I have used Scikit Learn module of python.
